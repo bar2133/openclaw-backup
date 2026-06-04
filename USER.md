@@ -21,7 +21,7 @@
 - **Bar Nachlieli** (bnachlieli@nvidia.com) — Scrum Master (that's you)
 - **Neta Ronen**
 - **Gennady Yekelis** (gennadyy@nvidia.com)
-- **Daher Daher (SW)**
+- **Daher Daher (SW)** (ddaher@nvidia.com) — NOTE: There's another "Daher Daher" (ddahr@nvidia.com) in ADO who is NOT on our team. Always use "Daher Daher (SW)" / ddaher@nvidia.com
 - **Anan Abu Yosef**
 - **Uri Menkes**
 - **Roi Zilberzwaig**
