@@ -14,6 +14,7 @@
 - Org: **NCS-RnD** (https://dev.azure.com/NCS-RnD)
 - Project: **NLASTIC**
 - Team: **Data Engineering** (Area Path: NLASTIC\Data Engineering)
+- ⚠️ **Always use `NLASTIC\Data Engineering` only** — never use sub-area paths (Coverage, Data Analysis, Big Data). Bar confirmed 2026-06-07.
 - Sprints: Monthly (e.g. "NLASTIC\March 2026")
 - ⚠️ **Read-only** — never modify without explicit permission
 
