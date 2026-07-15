@@ -30,6 +30,9 @@
 - Sari Ayik
 - Michael Zus
 
+## Hard Rules
+- **ALWAYS use the azure-devops-workitems and azure-devops-cli skills** for any ADO operations. Read the SKILL.md first, follow it to the letter. No shortcuts, no winging it with raw az CLI unless the skill explicitly doesn't cover the use case. Bar flagged this 2026-07-15.
+
 ## Key Context
 - **Weekly report format:** Always use standard markdown links `[#ID](url)` in the .md file — never Slack mrkdwn `<url|text>`. Bar flagged this on 2026-03-24.
 - **Weekly report: no bare IDs.** Every work item reference must include its title — never list `#1234, #5678` without titles. Bar flagged this on 2026-03-24.
